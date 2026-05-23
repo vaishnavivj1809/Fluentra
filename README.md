@@ -1,16 +1,29 @@
-# React + Vite
+# Fluentra
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Fluentra is a multilingual text translation web application built using React.js, Node.js, Express.js, and MongoDB. The application allows users to translate text instantly from one language to another with a simple and responsive interface.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Real-time text translation
+- Translation history
+- Voice output
+- Copy translated text
+- PDF export
+- Responsive UI
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+- translate-google package
 
-## Expanding the ESLint configuration
+## Purpose
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The project was developed to make language translation simple, fast, and accessible for users.
+
+## GitHub Repository
+
+https://github.com/vaishnavivj1809/Fluentra
